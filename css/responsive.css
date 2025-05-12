@@ -211,10 +211,6 @@
   .logo {
     width: 35%;
   }
-
-  .contentbtn {
-    display: none;
-  }
 }
 
 @media screen and (max-width: 628px) {
