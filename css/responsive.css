@@ -185,6 +185,13 @@
     gap: 30px;
   }
 
+  .navbar {
+    justify-content: space-between;
+    .logo {
+      width: 35%;
+    }
+  }
+
   .contentbtn {
     display: none;
   }
@@ -253,6 +260,14 @@
     width: 128%;
     left: -45px;
   }
+
+  .logo {
+    width: 40%;
+  }
+
+  .navbg {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 400px) {
@@ -303,5 +318,9 @@
   .TestiHeading {
     width: 58%;
     font-size: 11px;
+  }
+
+  .otherInp {
+    font-size: 17px;
   }
 }
