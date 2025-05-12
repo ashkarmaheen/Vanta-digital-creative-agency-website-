@@ -184,6 +184,10 @@
   .service {
     gap: 30px;
   }
+
+  .contentbtn {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 628px) {
@@ -251,5 +255,53 @@
   }
 }
 
-@media screen and (max-width: 519px) {
+@media screen and (max-width: 400px) {
+  .bannerHeading {
+    font-size: 13px;
+  }
+
+  .bannerSubhead {
+    font-size: 8px;
+  }
+
+  .founder {
+    display: none;
+  }
+
+  .founderBox {
+    width: 69%;
+  }
+
+  .aboutHeading {
+    font-size: 33px;
+  }
+
+  .aboutSubHead {
+    font-size: 15px;
+  }
+
+  .aboutBg {
+    margin-bottom: 10px;
+  }
+
+  .modal-content {
+    max-width: 290px;
+  }
+
+  .cardBg {
+    width: 480%;
+  }
+
+  .sectionHeading {
+    margin-bottom: 20px;
+  }
+
+  .contactImg {
+    height: 185px;
+  }
+
+  .TestiHeading {
+    width: 58%;
+    font-size: 11px;
+  }
 }
