@@ -1,0 +1,181 @@
+@media screen and (max-width: 1276px) {
+  .image {
+    width: 185%;
+    position: relative;
+    left: -56px;
+  }
+
+  .founderText {
+    width: 75%;
+  }
+
+  .flip-card-inner {
+    width: 90%;
+  }
+
+  .cardBg {
+    width: 115%;
+  }
+
+  .ContactImage {
+    width: 143%;
+    left: -60px;
+  }
+}
+
+@media screen and (max-width: 1137px) {
+  .aboutButtons {
+    margin-top: 10px;
+  }
+
+  .aboutBgOne {
+    width: 35%;
+    padding: 20px;
+  }
+  .aboutBgTwo {
+    padding: 20px;
+  }
+
+  .image {
+    width: 195%;
+  }
+
+  .cardBg {
+    width: 140%;
+  }
+
+  .TestiHeading {
+    width: 32%;
+  }
+
+  .ContactImage {
+    width: 160%;
+    left: -85px;
+  }
+}
+
+@media screen and (max-width: 1020px) {
+  .bannerHeading {
+    font-size: 30px;
+  }
+
+  .aboutBgOne {
+    display: flex;
+    align-items: center;
+  }
+
+  .founderBox {
+    width: 43%;
+  }
+
+  .founderText {
+    width: 72%;
+  }
+
+  .cardText {
+    font-size: 16px;
+  }
+
+  .cardBg {
+    width: 160%;
+  }
+
+  .contactHeadBox {
+    padding: 0px 0%;
+  }
+
+  .contactImgBox {
+    display: block;
+  }
+  .contactImg {
+    width: 100%;
+    height: 230px;
+  }
+
+  .contactBox {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 892px) {
+  .funderName {
+    font-size: 16px;
+  }
+  .aboutHeading {
+    font-size: 40px;
+  }
+  .aboutSubHead {
+    font-size: 16px;
+  }
+
+  .founder {
+    gap: 20px;
+  }
+
+  .cardBg {
+    width: 180%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .bannerHeading {
+    font-size: 24px;
+  }
+
+  .bannerSubhead {
+    font-size: 15px;
+  }
+
+  .aboutBgOne {
+    display: none;
+  }
+
+  .aboutBgTwo {
+    width: 87%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 30px;
+  }
+
+  .contactHead {
+    width: 100%;
+    gap: 30px;
+  }
+
+  .contactBg {
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .contactInputs {
+    width: 100%;
+  }
+
+  .ContactImage {
+    width: 100%;
+    left: 0px;
+  }
+
+  .contactImgBox {
+    display: flex;
+    justify-content: center;
+  }
+
+  .contactImg {
+    width: 85%;
+  }
+
+  .contactHeadBox {
+    padding: 0px 7%;
+  }
+
+  .TestiHeading {
+    width: 40%;
+    font-size: 16px;
+  }
+
+  .cardBg {
+    width: 245%;
+  }
+}
