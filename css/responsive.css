@@ -179,3 +179,77 @@
     width: 245%;
   }
 }
+
+@media screen and (max-width: 688px) {
+  .service {
+    gap: 30px;
+  }
+}
+
+@media screen and (max-width: 628px) {
+  .bannerHeading {
+    font-size: 20px;
+  }
+
+  .bannerSubhead {
+    font-size: 12px;
+  }
+
+  .TestiHeading {
+    width: 50%;
+    font-size: 12px;
+  }
+
+  .cardBg {
+    width: 305%;
+  }
+
+  .ContactImage {
+    width: 114%;
+    left: -32px;
+  }
+}
+
+@media screen and (max-width: 549px) {
+  .cardBg {
+    width: 347%;
+  }
+
+  .funderposition {
+    font-size: 13px;
+  }
+  .funderName {
+    font-size: 15px;
+  }
+  .founderText {
+    width: 68%;
+  }
+}
+
+@media screen and (max-width: 549px) {
+  .bannerSubhead {
+    font-size: 11px;
+  }
+
+  .bannerHeading {
+    font-size: 18px;
+  }
+
+  .founder {
+    gap: 13px;
+  }
+
+  .contactBg {
+    gap: 20px;
+  }
+  .funderName {
+    font-size: 14px;
+  }
+  .ContactImage {
+    width: 128%;
+    left: -45px;
+  }
+}
+
+@media screen and (max-width: 519px) {
+}
