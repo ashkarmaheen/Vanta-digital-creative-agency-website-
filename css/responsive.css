@@ -207,9 +207,9 @@
 
   .navbar {
     justify-content: space-between;
-    .logo {
-      width: 35%;
-    }
+  }
+  .logo {
+    width: 35%;
   }
 
   .contentbtn {
@@ -372,7 +372,7 @@
   }
 
   .cardBg {
-    width: 480%;
+    width: 490%;
   }
 
   .sectionHeading {
@@ -393,9 +393,12 @@
   }
 }
 
-@media screen and (max-width: 372px) {
+@media screen and (max-width: 376px) {
+  .logo {
+    width: 45%;
+  }
   .cardBg {
-    width: 520%;
+    width: 530%;
   }
 
   .sectionHeading {
@@ -404,6 +407,9 @@
 }
 
 @media screen and (max-width: 367px) {
+  .cardBg {
+    width: 540%;
+  }
   .aboutLernBtn {
     margin-right: 5px;
   }
@@ -430,7 +436,7 @@
   }
 
   .cardBg {
-    width: 595%;
+    width: 610%;
   }
   .ContactImage {
     left: -22px;
@@ -443,5 +449,9 @@
 
   .namebox {
     font-size: 14px;
+  }
+
+  .logo {
+    width: 50%;
   }
 }
