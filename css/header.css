@@ -300,7 +300,7 @@ ul li a:hover {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  gap: 30px;
+  gap: 40px;
   justify-content: center;
 }
 
@@ -308,7 +308,7 @@ ul li a:hover {
 
 .flip-card {
   background-color: transparent;
-  width: 300px;
+  width: 250px;
   height: 300px;
   perspective: 1000px;
   cursor: pointer;
