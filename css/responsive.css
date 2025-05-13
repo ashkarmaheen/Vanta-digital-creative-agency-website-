@@ -17,6 +17,10 @@
     width: 143%;
     left: -60px;
   }
+
+  .aboutBg {
+    margin-bottom: 50px;
+  }
 }
 
 @media screen and (max-width: 1137px) {
